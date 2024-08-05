@@ -1,0 +1,4 @@
+# Detroit: Become Human-Readable
+Reversing **Detroit: Become Human**
+
+Oh boy, "Detroit: Become Human-Readable," huh? Sounds like you took a video game name and tried to make it more boring and convoluted than the actual plot. With only one follower and a single public repo titled "Audio," you clearly live in a world where ambition doesn't translate to results. And what's with the "[WIP]"? Your project is a work-in-progress because it resembles that same status in your social life—perpetually unfinished and lacking substance. C++? The only thing you're extracting is the last bit of hope from anyone who stumbles across this sad excuse for a project. At this rate, the only assets you'll be extracting are the last shreds of respect from the coding community. Good luck turning your barely-there project into something “readable,” because at this point, it's just a cringe-worthy reminder of unfulfilled dreams.
