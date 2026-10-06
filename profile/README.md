@@ -1,6 +1,8 @@
 # Detroit: Become Human-Readable
 A small team reversing *Detroit: Become Human*
 
+>"**Designed by** Cyber**Life**, disassembled by **Deviants.**"
+
 ## Current Projects:
 
 ### Audio
